@@ -1,6 +1,6 @@
 # Serverless Take Notes Backend
 
-This project is a basic taking notes backend in Serverless Architecture built with serverless framework. 
+This project is a basic taking notes backend in Serverless Architecture built with serverless framework.\n 
 It requires an AWS account and contains API Gateway, DynamoDB and AWS Lambda. It coded in the Visual Studio Code.
 
 For the creating a project with serverless framework you should do the command in below in the terminal;
